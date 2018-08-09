@@ -1,0 +1,16 @@
+{
+  "name": "trello-to-markdown",
+  "version": "1.0.0",
+  "description": "Creates a folder structure reflecting lists in a trello board and adds the content description of the cards to it as markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pietro Passarelli <pietro.passarelli@gmail.com> (http://pietropassarelli.com)",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "node-fetch": "^2.2.0",
+    "sanitize-filename": "^1.6.1"
+  }
+}

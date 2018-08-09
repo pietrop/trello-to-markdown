@@ -1,0 +1,4268 @@
+{
+  "id": "58baed8aa5572569502ec017",
+  "name": "TextAV Audio and Video Components (ongoing)",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": "58c6bd0076885b4b897fcc58",
+  "pinned": false,
+  "url": "https://trello.com/b/58mo9Tpa/textav-audio-and-video-components-ongoing",
+  "shortUrl": "https://trello.com/b/58mo9Tpa",
+  "prefs": {
+    "permissionLevel": "public",
+    "voting": "public",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "blue",
+    "backgroundImage": null,
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundColor": "#0079BF",
+    "backgroundBottomColor": "#0079BF",
+    "backgroundTopColor": "#0079BF",
+    "canBePublic": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "labelNames": {
+    "green": "Node module",
+    "yellow": "Extract from: autoEdit 2",
+    "orange": "Front end components",
+    "red": "",
+    "purple": "BBC Component",
+    "blue": "Modules/Library/components",
+    "sky": "Open Source",
+    "lime": "STT",
+    "pink": "",
+    "black": "proprietary"
+  },
+  "cards": [
+    {
+      "id": "5b4f483bbd0c308cf0a89393",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:02:33.182Z",
+      "desc": "## Template\n\nFeel free to use the following template.\n\n---\n### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n### Contributors list \n*People working on this project*\n\n---",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 64,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "595e4e4e1314a3399982757b"
+      ],
+      "manualCoverAttachment": false,
+      "name": "How to add a new library/Modules/components",
+      "pos": 32767.5,
+      "shortLink": "MNxHd82o",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "595e4e4e1314a3399982757b",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Modules/Library/components",
+          "color": "blue"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/MNxHd82o",
+      "subscribed": false,
+      "url": "https://trello.com/c/MNxHd82o/64-how-to-add-a-new-library-modules-components"
+    },
+    {
+      "id": "5a900a2ed085b61f3269fa99",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-02-23T15:22:22.580Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 47,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "Transcription schema",
+      "pos": 65535,
+      "shortLink": "JaPqAV6J",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 1,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "5a9031adb6a86db575c80fdc"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/JaPqAV6J",
+      "subscribed": false,
+      "url": "https://trello.com/c/JaPqAV6J/47-transcription-schema"
+    },
+    {
+      "id": "5a900a3793979cb52f439e26",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:01:16.041Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 48,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "Schema for video sequence",
+      "pos": 131071,
+      "shortLink": "kVZZa009",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/kVZZa009",
+      "subscribed": false,
+      "url": "https://trello.com/c/kVZZa009/48-schema-for-video-sequence"
+    },
+    {
+      "id": "5a95578df3f66244516aaa47",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:26:18.254Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 49,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "Where to host the \"Toolkit\" resource list. gitbook?",
+      "pos": 196607,
+      "shortLink": "uluGvPTU",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 2,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "5a95579002f0bfdcaaf0ed7b"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/uluGvPTU",
+      "subscribed": false,
+      "url": "https://trello.com/c/uluGvPTU/49-where-to-host-the-toolkit-resource-list-gitbook"
+    },
+    {
+      "id": "5a9562ea2b967853f0e57863",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:02:03.193Z",
+      "desc": "Plan: Priorities components roadmap / sketch ecosystem. \"The whole is bigger then the sum of its parts\"",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 50,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "Plan/Roadmap/taxonomy",
+      "pos": 262143,
+      "shortLink": "Xvqob9kj",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/Xvqob9kj",
+      "subscribed": false,
+      "url": "https://trello.com/c/Xvqob9kj/50-plan-roadmap-taxonomy"
+    },
+    {
+      "id": "5ac781fd75b79dfe92f74d88",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-07-18T14:00:57.559Z",
+      "desc": "Every module should have a README, following this template should remove friction from the process.\n\nhttps://gist.github.com/pietrop/a89d96870b843c6f07b8ad12a9c17dde\n\n----\n\n## Brief of the project\n\n_One liner + link to confluence page_\n\n_Screenshot of UI - optional_\n\n \n\n## Setup\n\n_stack - optional_\n\n_How to build and run the code/app_\n\n \n\n## Usage\n\n \n\n## System Architecture\n\n_High level overview of system architecture_\n\n \n\n## Development env\n\n _How to run the development environment_\n\n_Coding style convention ref optional, eg which linter to use_\n\n_Linting, github pre-push hook - optional_\n\n \n\n## Build\n\n_How to run build_\n\n \n\n## Tests\n\n_How to carry out tests_\n\n \n\n## Deployment\n\n_How to deploy the code/app into test/staging/production_",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5a900a25215d3d210630a94b",
+      "idMembersVoted": [],
+      "idShort": 54,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "github README template",
+      "pos": 327679,
+      "shortLink": "efBZRKVz",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/efBZRKVz",
+      "subscribed": false,
+      "url": "https://trello.com/c/efBZRKVz/54-github-readme-template"
+    },
+    {
+      "id": "5a96d0fd7891407e10b903c9",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:49:19.931Z",
+      "desc": "Example write up here:\n\nhttp://pietropassarelli.com/ffmpeg-electron.html",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 51,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac7951a906a353b53391aee",
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "ffmpeg and electron - example boilerplate",
+      "pos": 12287.8125,
+      "shortLink": "6MKNmXCc",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/6MKNmXCc",
+      "subscribed": false,
+      "url": "https://trello.com/c/6MKNmXCc/51-ffmpeg-and-electron-example-boilerplate"
+    },
+    {
+      "id": "58baede6b2fff6dde85c84f0",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:44:44.204Z",
+      "desc": "could be abstracted from autoEdit.\nPerhaps it can be combined in the transcode video module ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee"
+      ],
+      "manualCoverAttachment": false,
+      "name": "convert video to audio [Open Source]",
+      "pos": 24575.625,
+      "shortLink": "1fLY5mLQ",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/1fLY5mLQ",
+      "subscribed": false,
+      "url": "https://trello.com/c/1fLY5mLQ/2-convert-video-to-audio-open-source"
+    },
+    {
+      "id": "5937a00380c633e301866b47",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:44:51.386Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\nExample use case, in an AV app, like autoEdit, where ffmpeg is used to process video or audio files and want to leverage the vast amount of file types supported, it's tricky to find a comprehensive list to do file validation. \n\nThis script generates a list (array) that can be used for this purpose. \n\nusage: Either just get the ready made list in the example folder, or make your own if you have a different version of ffmpeg installed locally.\n\nYou can also require this module and use it within your project to generate the list on the fly with your local version of ffmpeg. It also supports setting the path for the ffmpeg binary, for use cases such as wehn working with nwjs or electron.\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\nInitial draft \n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\nFeedbacks on the module very welcome. \n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\nFeedback welcome on\n\n- Does the README make sense? \n- Are there any typos?\n- Is the code clear enough?\n- Does the testing need to be more comprehensive?\n- Any use cases I haven't considered that might require extra or different features.\n\n### Github repo if available\n*Github repo for the project if open source*\n\nhttps://github.com/pietrop/ffmpeg_formats_list\n\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\nNA\n\n### Website \n*eg github project page or README where can find out more*\n\nNA\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\nNode, ffmpeg. \n\n### Contributors list \n*People working on this project*\n\n- Pietro\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 23,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Generate list of ffmpeg supported file formats [Open Source]",
+      "pos": 851967,
+      "shortLink": "RPKcw5jb",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/RPKcw5jb",
+      "subscribed": false,
+      "url": "https://trello.com/c/RPKcw5jb/23-generate-list-of-ffmpeg-supported-file-formats-open-source"
+    },
+    {
+      "id": "594ff3d27394e53977e7413d",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:44:53.426Z",
+      "desc": "A module that uses ffmpeg (or sox?) to detect silences in a video/audio file, eg while somene is speaking, and returns some kind of data structure.\n\neg https://stackoverflow.com/questions/36074224/how-to-split-video-or-audio-by-silent-parts\n\neg \n\n```\nffmpeg -i \"input.mov\" -af silencedetect=noise=-30dB:d=0.5 -f null - 2> vol.txt\n```\n\nor with node [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg#audiofiltersfilter-add-custom-audio-filters)",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 27,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Detect silence [Open Source]",
+      "pos": 983039,
+      "shortLink": "jIgbeG5w",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5909ddc2f5cbbe4ff3879499"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/jIgbeG5w",
+      "subscribed": false,
+      "url": "https://trello.com/c/jIgbeG5w/27-detect-silence-open-source"
+    },
+    {
+      "id": "5939847acfb86a847437e970",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:44:56.382Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n\n\nA module to download videos from yotube url (as well as other) would be useful. Perhaps with support to download captions when available. \n\nInspired by [kshivanku/VideoEditor](https://github.com/kshivanku/VideoEditor)\n\nElectron app proof of concept:\n\nI got frustrated with the firefox plugin I was using to achieve the same  and so I gave it a try at making an electron app, [`video-downloader`](https://github.com/pietrop/electron-video-downloader)  that given a youtube url can \n- download the file locally as mp4\n- download as mp3, wav, mov \n- download associated captions. \n\nusing `youtube-dl` but can't seem to work with vimeo. \n\nIt be good for this to be compatible with direct url to video files. \n\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\nyoutube-dl exists as a library. Example usage in projects mentioned above. \nA component needs to be defined and abstracted. \nalso needs evaluating whether this is necessary, using youtube-dl might prove to be enough for most cases?\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n- Feedback on how to extract/create a standalone reusable module to download videos from youtube (and others\n- and what the interface should be, \n- if anyone knows how youtube-dl binary is implemented under the hood? eg does it use ffmpeg? can it be used cross platform?\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n- node\n- electron\n- youtube-dl\n\n### Contributors list \n*People working on this project*\n\n- Pietro",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 25,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Youtube Video downloader module (?) [Open Source]",
+      "pos": 1048575,
+      "shortLink": "wgGQKXis",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de",
+        "59530a23868ce28f6c4dce46",
+        "594b0f3a656ba6a414df4665"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/wgGQKXis",
+      "subscribed": false,
+      "url": "https://trello.com/c/wgGQKXis/25-youtube-video-downloader-module-open-source"
+    },
+    {
+      "id": "58baf20ac340cddd4ee0e679",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:44:59.364Z",
+      "desc": "Refactor Gentle so that it can work as terminal command\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Open source STT //Gentle refactor [Open Source]",
+      "pos": 1114111,
+      "shortLink": "4BBwUS4c",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 4,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baf224102529242e54a3fc"
+      ],
+      "idMembers": [
+        "4f786c5813fa511e7a0bf7e0"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/4BBwUS4c",
+      "subscribed": false,
+      "url": "https://trello.com/c/4BBwUS4c/8-module-open-source-stt-gentle-refactor-open-source"
+    },
+    {
+      "id": "5938dc71b11a7b24308a66f2",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:45:10.792Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\nCaptions as gliphs, bitmaps, OCR with tesseract. To figure out when the line rolls to avoid repeated. \n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n### Contributors list \n*People working on this project*",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 24,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "cc extraction // OCR of captions [Open Source]",
+      "pos": 1179647,
+      "shortLink": "Buaad1CC",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51b6356e824286bc58007011",
+        "5938ddc80ff7394da779269f"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/Buaad1CC",
+      "subscribed": false,
+      "url": "https://trello.com/c/Buaad1CC/24-cc-extraction-ocr-of-captions-open-source"
+    },
+    {
+      "id": "58baf319c526448dae9f8817",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:45:16.533Z",
+      "desc": "Eg convert o webm, ogg or mp4.\nRefactor of autoEdit, convert to web preview. ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 11,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Video format converter [Open Source]",
+      "pos": 1245183,
+      "shortLink": "IPZ8mKhL",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 5,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baf332ce75c9f5d5a0bc3d"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/IPZ8mKhL",
+      "subscribed": false,
+      "url": "https://trello.com/c/IPZ8mKhL/11-module-video-format-converter-open-source"
+    },
+    {
+      "id": "58baf2e2e642aa3032c35f02",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:45:26.476Z",
+      "desc": "From autoEdit. \nUsed mainly for getting infos for making EDLs. \nwraps ffprobe. ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 10,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee",
+        "5ad5cc9ae16aa755b8463f13"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Video metadata reader [Open Source]",
+      "pos": 1310719,
+      "shortLink": "Ev4LqgAY",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "5ad5cc9ae16aa755b8463f13",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract From BBC Dialogger",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/Ev4LqgAY",
+      "subscribed": false,
+      "url": "https://trello.com/c/Ev4LqgAY/10-module-video-metadata-reader-open-source"
+    },
+    {
+      "id": "5ac778a331186b309f9c2674",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:27.104Z",
+      "desc": "Removes non human frequencies from audio. \nUseful for downsizing files before sending to speech to textAPI. \nEg Watson 100MB file size restriction. \n\n```\nffmpeg -i aliceinwonderland_01_gerstenberg_64kb.mp3 -y -ar 8000 -af \"highpass=f=200, lowpass=f=3000\"  -ab 64 -ac 1 -acodec mp3 test1.mp3\n```",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 53,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Banpass filter module",
+      "pos": 1376255,
+      "shortLink": "DSNkuO3C",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 2,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "5ac77a55dc7d2a68a526775e"
+      ],
+      "idMembers": [
+        "5909ddc2f5cbbe4ff3879499"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/DSNkuO3C",
+      "subscribed": false,
+      "url": "https://trello.com/c/DSNkuO3C/53-banpass-filter-module"
+    },
+    {
+      "id": "5b6c8e195fd48e0b7ae39142",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:57:13.754Z",
+      "desc": "tutorial by @corbin74 https://pietropassarelli.gitbooks.io/textav/content/unconference-projects/ai-pipeline/i-learned-what-tesseract-can-do-and-so-can-you.html\n\nhttps://github.com/tesseract-ocr/tesseract\n\nalso node module \n\nhttps://www.npmjs.com/package/node-tesseract",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8b6765b0e4597826e60a",
+      "idMembersVoted": [],
+      "idShort": 69,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4",
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Tesseract - OCR",
+      "pos": 1441791,
+      "shortLink": "AERfU2M0",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/AERfU2M0",
+      "subscribed": false,
+      "url": "https://trello.com/c/AERfU2M0/69-tesseract-ocr"
+    },
+    {
+      "id": "5ac7a1ad844ee880c37ebdf0",
+      "checkItemStates": null,
+      "closed": true,
+      "dateLastActivity": "2018-04-06T16:35:00.144Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baed8aa5572569502ec018",
+      "idMembersVoted": [],
+      "idShort": 59,
+      "idAttachmentCover": null,
+      "idLabels": [],
+      "manualCoverAttachment": false,
+      "name": "Video trimmer",
+      "pos": 983039,
+      "shortLink": "eDSxPahy",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "shortUrl": "https://trello.com/c/eDSxPahy",
+      "subscribed": false,
+      "url": "https://trello.com/c/eDSxPahy/59-video-trimmer"
+    },
+    {
+      "id": "5ac7a13b03375761a838e00f",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:48:36.689Z",
+      "desc": "A module to abstract the transcription functionality from STT services and present a consistent interface to use within your app \n\nhttps://github.com/OpenNewsLabs/autoEdit_2/tree/4e084a8367a9e295cb0c8e14b32aaae9b15c7cbf/lib/interactive_transcription_generator/transcriber\n\nIt has sub modules for trimming, splitting, converting video to audio of the specs of the STT service etc.. that should perhaps be extracted separately.",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 58,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee",
+        "5ac79db223ba04479bd18ab4"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Transcriber module",
+      "pos": 8191.875,
+      "shortLink": "7jSJ7Bc1",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5909ddc2f5cbbe4ff3879499",
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/7jSJ7Bc1",
+      "subscribed": false,
+      "url": "https://trello.com/c/7jSJ7Bc1/58-transcriber-module"
+    },
+    {
+      "id": "59619bd9f0d07bc840ef6764",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:48:39.498Z",
+      "desc": "Links and files to use as samples for trying STT services.\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 41,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Sample material for testing STT services [Open Source / CC]",
+      "pos": 12287.8125,
+      "shortLink": "feER9vZU",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 5,
+        "attachments": 2,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/feER9vZU",
+      "subscribed": false,
+      "url": "https://trello.com/c/feER9vZU/41-sample-material-for-testing-stt-services-open-source-cc"
+    },
+    {
+      "id": "5ac79d46957bb7d248a2b59c",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:51:27.526Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 55,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "58baed8aa5572569502ec023"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Create word accurate time codes from line accurate time-coded transcript (eg srt)",
+      "pos": 32255.5078125,
+      "shortLink": "lzRAWXRa",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "58baed8aa5572569502ec023",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: quickQuoteNode",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/lzRAWXRa",
+      "subscribed": false,
+      "url": "https://trello.com/c/lzRAWXRa/55-create-word-accurate-time-codes-from-line-accurate-time-coded-transcript-eg-srt"
+    },
+    {
+      "id": "5a8eac4eb64591a04d9c611a",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:10.076Z",
+      "desc": "if it doesn't exist already\n\na component with [language codes](https://cloud.google.com/translate/docs/languages)\n\nperhaps scrapes page to keep up to date json formatted as \n\n```json\n {\n\t'English': 'en',\n\t'Spanish': 'es',\n\t'Turkish':'tr',\n\t'Chinese':'zh-CN ',\n\t'Portuguese':'pt',\n\t'Arabic':'ar',\n\t'Russian ':'ru'\n}\n```",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 46,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Language codes `ISO-639-1 Code`",
+      "pos": 1179647,
+      "shortLink": "RlIhbBEs",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/RlIhbBEs",
+      "subscribed": false,
+      "url": "https://trello.com/c/RlIhbBEs/46-language-codes-iso-639-1-code"
+    },
+    {
+      "id": "58bb14a0ae81e1361a3fac81",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:17.794Z",
+      "desc": "Review existing one  and see what's missing to make comprehensive. ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 21,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Timecode conversion [Open Source]",
+      "pos": 1310719,
+      "shortLink": "gK1HYMeY",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 3,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58bb14a95bc69998b201880f"
+      ],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/gK1HYMeY",
+      "subscribed": false,
+      "url": "https://trello.com/c/gK1HYMeY/21-module-timecode-conversion-open-source"
+    },
+    {
+      "id": "5b685dfdf49220880f5691d6",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:00:53.888Z",
+      "desc": "### Brief description \nThere's a bunch of UI related code snippets which are always recycled from different projects, like \"calculate dom element position & width in % based on time code & duration\", \"get scroll position of element with time code x within container element y\", etc. It would be awesome to have a component / utility library of these which can be easily imported into different projects.\n\n### Stage of production: \nPart of working code in various repos. Needs to be collected, put in standalone utility functions and neatly documented.\n\n### Any blockers? \nnone\n\n### Components \n- List of standalone methods\n  - Examples: \n    - https://github.com/OpenHypervideo/FrameTrail/blob/develop/player/types/Annotation/type.js#L142 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/develop/player/modules/AnnotationsController/module.js#L139 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/b62a06f37e40ee384408de962800c149aec07232/player/modules/HypervideoController/module.js#L827 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/b62a06f37e40ee384408de962800c149aec07232/player/types/ContentView/type.js#L932 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/develop/player/modules/OverlaysController/module.js#L152 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/develop/player/modules/OverlaysController/module.js#L200 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/develop/player/modules/OverlaysController/module.js#L392 \n    - https://github.com/OpenHypervideo/FrameTrail/blob/b62a06f37e40ee384408de962800c149aec07232/player/types/ContentView/type.js#L420 \n- Potentially a simple search mechanism & UI to find suitable code snippets to copy & paste\n\n### Github repo if available\nnot yet there\n\n### List of Stack used \nAs this relates to UI methods, it should just come down to JS\n\n### Contributors list \n*People working on this project*",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c7ff809456525eaa2a0",
+      "idMembersVoted": [],
+      "idShort": 66,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b685e130a5a5a5d0975bf5d",
+        "58baed8aa5572569502ec021",
+        "5b6c8b82b6457276cbf155e9"
+      ],
+      "manualCoverAttachment": false,
+      "name": "UI Utilities for timecode representation",
+      "pos": 1376255,
+      "shortLink": "Dc1K8tbQ",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5964a4b030d6123a25cb80da"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b685e130a5a5a5d0975bf5d",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "UI",
+          "color": "sky"
+        },
+        {
+          "id": "58baed8aa5572569502ec021",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Front end components",
+          "color": "orange"
+        },
+        {
+          "id": "5b6c8b82b6457276cbf155e9",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Nice to have",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/Dc1K8tbQ",
+      "subscribed": false,
+      "url": "https://trello.com/c/Dc1K8tbQ/66-ui-utilities-for-timecode-representation"
+    },
+    {
+      "id": "5b47de43e80825851e92b766",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-07-12T23:04:41.056Z",
+      "desc": "Some notes: \n\ndemo\nhttps://www.google.com/intl/en/chrome/demos/speech.html\n\ndocs \nhttps://github.com/googlearchive/webplatform-samples/blob/master/webspeechdemo/webspeechdemo.html\n\nblog\nhttps://shapeshed.com/html5-speech-recognition-api/\n\nCan try this in your browser\n\n```\nvar recognition = new webkitSpeechRecognition();\n\nrecognition.continuous = true;\nrecognition.interimResults = true;\n\nrecognition.lang = 'en-GB';\n\nrecognition.onresult = function(event) {\n\tconsole.log(event.results)\n}\n\nrecognition.start();\n// mic will prompt to allow\n\n// speak to the mic\n\nrecognition.stop();\n```\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 63,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Web Speech API",
+      "pos": 16383.75,
+      "shortLink": "NsSx3EJp",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/NsSx3EJp",
+      "subscribed": false,
+      "url": "https://trello.com/c/NsSx3EJp/63-web-speech-api"
+    },
+    {
+      "id": "58baf461dcf6edad5aeb20d6",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-17T19:19:02.016Z",
+      "desc": "refactor this module. \nhttps://github.com/OpenNewsLabs/offline_speech_to_text",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee",
+        "5ad64817860fe2f514be71c8"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Pocket Sphinx STT [Open Source]",
+      "pos": 32767.5,
+      "shortLink": "NAm9fX4e",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 6,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baf4706628aebf20234765"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "5ad64817860fe2f514be71c8",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "extract from videogreap (osx dmg)",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/NAm9fX4e",
+      "subscribed": false,
+      "url": "https://trello.com/c/NAm9fX4e/15-pocket-sphinx-stt-open-source"
+    },
+    {
+      "id": "595e38148e070c216af6f385",
+      "checkItemStates": null,
+      "closed": true,
+      "dateLastActivity": "2018-04-17T19:18:51.559Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 32,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79db223ba04479bd18ab4",
+        "5ac7951a906a353b53391aee"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Pocketsphinx STT Module [Open Source]",
+      "pos": 32767.5,
+      "shortLink": "4Sep5D0S",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/4Sep5D0S",
+      "subscribed": false,
+      "url": "https://trello.com/c/4Sep5D0S/32-pocketsphinx-stt-module-open-source"
+    },
+    {
+      "id": "58baf3fed1d4550143c9d211",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:23:18.182Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "IBM Watson STT [Proprietary]",
+      "pos": 65535,
+      "shortLink": "EfbrqeCW",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/EfbrqeCW",
+      "subscribed": false,
+      "url": "https://trello.com/c/EfbrqeCW/12-ibm-watson-stt-proprietary"
+    },
+    {
+      "id": "58baf4001830f7beacef0373",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:23:23.091Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 13,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Google Cloud Speech API [Proprietary]",
+      "pos": 131071,
+      "shortLink": "psvUEUhl",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 7,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/psvUEUhl",
+      "subscribed": false,
+      "url": "https://trello.com/c/psvUEUhl/13-google-cloud-speech-api-proprietary"
+    },
+    {
+      "id": "58baf4126f24e9d7aafbeee7",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:23:30.728Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Microsoft Bing STT [Proprietary]",
+      "pos": 196607,
+      "shortLink": "k9l0UH9Q",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/k9l0UH9Q",
+      "subscribed": false,
+      "url": "https://trello.com/c/k9l0UH9Q/14-microsoft-bing-stt-proprietary"
+    },
+    {
+      "id": "595e37e6b3661fde34d8860a",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-08T12:34:27.083Z",
+      "desc": "Baidu STT service (free)  http://yuyin.baidu.com",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 28,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Baidu STT SDK [Proprietary]",
+      "pos": 262143,
+      "shortLink": "2WevjZIF",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 14,
+        "attachments": 4,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/2WevjZIF",
+      "subscribed": false,
+      "url": "https://trello.com/c/2WevjZIF/28-baidu-stt-sdk-proprietary"
+    },
+    {
+      "id": "595e37ef214d3ccc1788daea",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-13T22:37:00.581Z",
+      "desc": "https://www.npmjs.com/package/speechmatics",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 29,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Speechmatics STT SDK [Proprietary]",
+      "pos": 327679,
+      "shortLink": "WmSwL1vx",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/WmSwL1vx",
+      "subscribed": false,
+      "url": "https://trello.com/c/WmSwL1vx/29-speechmatics-stt-sdk-proprietary"
+    },
+    {
+      "id": "595e37f5245fd837fc104aac",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-08T01:26:53.339Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 30,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Spoken Data STT SDKs [Proprietary]",
+      "pos": 393215,
+      "shortLink": "JGbsz49U",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/JGbsz49U",
+      "subscribed": false,
+      "url": "https://trello.com/c/JGbsz49U/30-spoken-data-stt-sdks-proprietary"
+    },
+    {
+      "id": "595e38014e1a6c25ee4b0b6a",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:23:46.568Z",
+      "desc": "https://github.com/OpenNewsLabs/gentle_stt_node",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 31,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79db223ba04479bd18ab4",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Gentle (Server) STT node SDK [Open Source]",
+      "pos": 458751,
+      "shortLink": "k9uJPfRQ",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/k9uJPfRQ",
+      "subscribed": false,
+      "url": "https://trello.com/c/k9uJPfRQ/31-gentle-server-stt-node-sdk-open-source"
+    },
+    {
+      "id": "59603158a07475f2aa032f62",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-07-09T21:58:35.273Z",
+      "desc": "Same company as Rev can use this end point probably.\nhttps://www.rev.com/api",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 39,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Temi.com/rev.com [Proprietary]",
+      "pos": 540671,
+      "shortLink": "J9miT77G",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 4,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/J9miT77G",
+      "subscribed": false,
+      "url": "https://trello.com/c/J9miT77G/39-temicom-revcom-proprietary"
+    },
+    {
+      "id": "59607e2c98e3d4c72b52927d",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:24:06.260Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 40,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Latvian Kaldi [open source]",
+      "pos": 557055,
+      "shortLink": "gIMLkyOj",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/gIMLkyOj",
+      "subscribed": false,
+      "url": "https://trello.com/c/gIMLkyOj/40-latvian-kaldi-open-source"
+    },
+    {
+      "id": "59cd001d0babd97e15156015",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:24:37.170Z",
+      "desc": "http://mod9.com/site/products",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 42,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Mod9",
+      "pos": 688127,
+      "shortLink": "ilKmve4T",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/ilKmve4T",
+      "subscribed": false,
+      "url": "https://trello.com/c/ilKmve4T/42-mod9"
+    },
+    {
+      "id": "59ce6d840af952024f5dc4c7",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:19:51.523Z",
+      "desc": "from this article\n\nhttps://www.wired.com/2016/04/long-form-voice-transcription/\n\n>Which shouldn't be interpreted to mean that we're not living in the golden age of speech technology. This month, Friedland helped launch MOVI, a Kickstarted speech recognizer/voice synthesizer for Arduino that operates without the use of the cloud. \"It doesn't use the Internet,\" Friedland says. \"You don't have to use the cloud to do recognition. It can work with a couple hundred sentences and it adapts.\" He laughs at Sony, Apple, Google, Microsoft, and other companies that send speech into the cloud for processing. \"All of this is exploiting the fact that people think [voice recognition] is so hard that it has to get done in the cloud. If you have one speaker speaking into a computer, we should consider this problem solved.\"\n\n\nhttps://www.kickstarter.com/projects/310865303/movi-a-standalone-speech-recognizer-shield-for-ard/posts/1515592\n\nhttp://www.audeme.com/\n\nhttps://www.amazon.com/dp/B01C9HBL90/ref=cm_sw_su_dp",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 43,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Movi - arduino component, offline",
+      "pos": 753663,
+      "shortLink": "aecw0NvR",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/aecw0NvR",
+      "subscribed": false,
+      "url": "https://trello.com/c/aecw0NvR/43-movi-arduino-component-offline"
+    },
+    {
+      "id": "59d4bcfed8436c4a7312bb11",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:24:41.845Z",
+      "desc": "https://brain2.deepgram.com/ \n\nunlimited and free",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 44,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79c0cb5b34f1eb544a6c2",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "deepgram",
+      "pos": 819199,
+      "shortLink": "iQooWZXo",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/iQooWZXo",
+      "subscribed": false,
+      "url": "https://trello.com/c/iQooWZXo/44-deepgram"
+    },
+    {
+      "id": "5ac79f35d30a0cc5125aaf57",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-04-06T16:24:25.439Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 56,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4",
+        "5ac79e21084dcf68870a3df0"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Mozilla deep speech",
+      "pos": 884735,
+      "shortLink": "pZRg7a3G",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        },
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/pZRg7a3G",
+      "subscribed": false,
+      "url": "https://trello.com/c/pZRg7a3G/56-mozilla-deep-speech"
+    },
+    {
+      "id": "5b6a469700559a2a11a08e57",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-08T01:25:55.413Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baf3f3971b32ae430a8b50",
+      "idMembersVoted": [],
+      "idShort": 67,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79e21084dcf68870a3df0",
+        "5ac79c0cb5b34f1eb544a6c2"
+      ],
+      "manualCoverAttachment": false,
+      "name": "AWS Transcriber",
+      "pos": 950271,
+      "shortLink": "KQ3AAdbY",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79e21084dcf68870a3df0",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "STT",
+          "color": "lime"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/KQ3AAdbY",
+      "subscribed": false,
+      "url": "https://trello.com/c/KQ3AAdbY/67-aws-transcriber"
+    },
+    {
+      "id": "593a6a75bc4055a97e609152",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:46:18.576Z",
+      "desc": "\n### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n### Stage of production: \n\nPrototype, used in some experimental internal tools.\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n\nhttps://github.com/bbc/transcript-editor\n\n### Demo Video \n\nDemo app:\nhttps://bbc.github.io/transcript-editor/\n\n### Website \n\nhttps://github.com/bbc/transcript-editor\n\n### List of Stack used \n\nES6, React, Draft.js\n\n### Contributors list \n\nAlex Norton",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8bf35631805d3aa2629c",
+      "idMembersVoted": [],
+      "idShort": 26,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "58baed8aa5572569502ec021",
+        "5ad5cc9ae16aa755b8463f13",
+        "5b0d5992b8b26933e35e2c41"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Transcription text editor with Draft.js Editor [Open Source]",
+      "pos": 16383.75,
+      "shortLink": "3f35GNS2",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 5,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "52a5c5cd66e2b55d7d0037b3",
+        "4e6fe3e75f5d733f45001a2d",
+        "58a3285c7f209ebbfc1403c9",
+        "5952bd628a89245e3e0b6a3c"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "58baed8aa5572569502ec021",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Front end components",
+          "color": "orange"
+        },
+        {
+          "id": "5ad5cc9ae16aa755b8463f13",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract From BBC Dialogger",
+          "color": "yellow"
+        },
+        {
+          "id": "5b0d5992b8b26933e35e2c41",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from BBC Subtlelizer",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/3f35GNS2",
+      "subscribed": false,
+      "url": "https://trello.com/c/3f35GNS2/26-transcription-text-editor-with-draftjs-editor-open-source"
+    },
+    {
+      "id": "5b6c8c123c8c581474c6786a",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:57:27.061Z",
+      "desc": "",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8bf35631805d3aa2629c",
+      "idMembersVoted": [],
+      "idShort": 68,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "58baed8aa5572569502ec021"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Overtyper",
+      "pos": 81919.75,
+      "shortLink": "R46qavhl",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "58baed8aa5572569502ec021",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Front end components",
+          "color": "orange"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/R46qavhl",
+      "subscribed": false,
+      "url": "https://trello.com/c/R46qavhl/68-overtyper"
+    },
+    {
+      "id": "5a0acfeafeb83209b1d88e67",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:47:03.161Z",
+      "desc": "list of alignement tools \n\nhttps://github.com/pettarin/forced-alignment-tools",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c1ec99b5177c5e5aee1",
+      "idMembersVoted": [],
+      "idShort": 45,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ad5cc9ae16aa755b8463f13"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Alignement",
+      "pos": 8191.875,
+      "shortLink": "5DYQHvoN",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 6,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ad5cc9ae16aa755b8463f13",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract From BBC Dialogger",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/5DYQHvoN",
+      "subscribed": false,
+      "url": "https://trello.com/c/5DYQHvoN/45-alignement"
+    },
+    {
+      "id": "5a96d132ddbb172399fa4dca",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:00:22.376Z",
+      "desc": "Based on this R&D post from conversation with James at News Labs.\n\nhttp://pietropassarelli.com/aligning-partially-scripted-speeches.html",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c1ec99b5177c5e5aee1",
+      "idMembersVoted": [],
+      "idShort": 52,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b6c8b82b6457276cbf155e9"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: to align partially scripted speeches",
+      "pos": 163839.5,
+      "shortLink": "0OEhoZzW",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b6c8b82b6457276cbf155e9",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Nice to have",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/0OEhoZzW",
+      "subscribed": false,
+      "url": "https://trello.com/c/0OEhoZzW/52-module-to-align-partially-scripted-speeches"
+    },
+    {
+      "id": "58baed9d81307b8d369c1fdb",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:50:24.946Z",
+      "desc": "The idea is basically if you have a transcription Json ( for simplicity's sake let's assume in it's simplest form as an array of word objects with Start and end timecode attributes) how to create an srt where the lines/words  are well spaced and timed appropriately, automatically .  If that makes sense?\n\nCould refactor this: \nhttps://github.com/pietrop/srtParserComposer\non npm \n\nExample\n\n[concept map of module](https://docs.google.com/drawings/d/1y0v-jqZEa3u4NOdXLtPmJE1rFGY-dbQXvw-COQuWFQs/edit?usp=sharing)\n\nor might be that using [Aeneas as described in this card](https://trello.com/c/6SWhxGTR) might be enough?\n\n## BBC Specifications\n\nhttps://bbc.github.io/subtitle-guidelines/\n\n[BBC guidelines online_sub_editorial_guidelines_vs1_1.pdf ](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/subtitling_guides/online_sub_editorial_guidelines_vs1_1.pdf)\n\nhttp://www.bbc.co.uk/guidelines/futuremedia/accessibility/subtitling.shtml\n\n\n## C4 Specifications\n\n[C4 specification pdf ](http://www.channel4.com/media/documents/corporate/foi-docs/SG_FLP.pdf)\n\n\n## Aljazeera Specifications\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c29dfc655266760e67f",
+      "idMembersVoted": [],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b0d5992b8b26933e35e2c41"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: captions composer (with text pre-segmentation) [Open Source]",
+      "pos": 65535,
+      "shortLink": "Q5jClWkc",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 6,
+        "checkItemsChecked": 1,
+        "comments": 18,
+        "attachments": 2,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baedaca621346f1d1c68ec"
+      ],
+      "idMembers": [
+        "5689e71a33efa6075a5b036a",
+        "592f6434c70078c3a2bf11a5",
+        "52a5c5cd66e2b55d7d0037b3",
+        "594b0f3a656ba6a414df4665"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b0d5992b8b26933e35e2c41",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from BBC Subtlelizer",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/Q5jClWkc",
+      "subscribed": false,
+      "url": "https://trello.com/c/Q5jClWkc/1-module-captions-composer-with-text-pre-segmentation-open-source"
+    },
+    {
+      "id": "58baf12f056ae50e82892ee1",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:50:29.663Z",
+      "desc": "https://en.wikipedia.org/wiki/WebVTT\n\nhttps://github.com/voxmedia/captions_burner\nhttps://github.com/pietrop/captions_burner\n\nuses ffmpeg command to burn captions onto video file programmatically.",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c29dfc655266760e67f",
+      "idMembersVoted": [],
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Captions burner [Open Source]",
+      "pos": 393215,
+      "shortLink": "hGa9Toa8",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 5,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baf135bcd0a122b316f499"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/hGa9Toa8",
+      "subscribed": false,
+      "url": "https://trello.com/c/hGa9Toa8/7-module-captions-burner-open-source"
+    },
+    {
+      "id": "58beddbf0a43f9f6f6719a31",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:51:45.806Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n>A couple of modules to parse and generate srt files. No external dependencies needed.\n>- parse an srt file or srt string (content of an srt file) into a json or plain text.\n>- create an srt file from json\n> - parse an srt file into a csv file.\n\n\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\nCould do with a refactor with some design patterns. And add some tests. \n\n[Conversation on next step on this board, in this trello card in text av video components](https://trello.com/c/Q5jClWkc/1-module-srt-parser-composer-refactor)\n\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\nParts of this ( converting srt to word accurate json) was original extracted from hyperaudio \nhttp://hyperaud.io/converter who originally took it from popcornjs srt parser.\nhttps://github.com/hyperaudio/ha-converter\n\nThe module also makes a word accurate transcription json from an srt file. \nUsing code extracted from popcornjs srt module http://popcornjs.org/popcorn-docs/parsers/#SRT  https://github.com/mozilla/popcorn-js/tree/master/parsers/parserSRT \n\n\n### Github repo if available\n*Github repo for the project if open source*\n\nhttps://github.com/pietrop/srtParserComposer\n\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\nhttps://www.npmjs.com/package/srt_parser_composer\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\nJavascript\n\n### Contributors list \n*People working on this project*\n\nPietro Passarelli\n",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c29dfc655266760e67f",
+      "idMembersVoted": [],
+      "idShort": 37,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Srt parser composer // Pietro [Open Source]",
+      "pos": 458751,
+      "shortLink": "lZQYawmy",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 8,
+        "checkItemsChecked": 4,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58bf43437eea07629e78bb43"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/lZQYawmy",
+      "subscribed": false,
+      "url": "https://trello.com/c/lZQYawmy/37-srt-parser-composer-pietro-open-source"
+    },
+    {
+      "id": "591da2b4f6ae8b23449a1620",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:51:55.547Z",
+      "desc": "## TTML Parser \n\n---\n### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n### Contributors list \n*People working on this project*\n\n---",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c29dfc655266760e67f",
+      "idMembersVoted": [],
+      "idShort": 34,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "595e4e4e1314a3399982757b"
+      ],
+      "manualCoverAttachment": false,
+      "name": "TTML Parser // Gary, Brightcove [Open Source]",
+      "pos": 999423,
+      "shortLink": "kOEa0SfB",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5689e71a33efa6075a5b036a",
+        "594b0f3a656ba6a414df4665"
+      ],
+      "labels": [
+        {
+          "id": "595e4e4e1314a3399982757b",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Modules/Library/components",
+          "color": "blue"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/kOEa0SfB",
+      "subscribed": false,
+      "url": "https://trello.com/c/kOEa0SfB/34-ttml-parser-gary-brightcove-open-source"
+    },
+    {
+      "id": "5ac7a6b9d50ceff419a202af",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:53:32.786Z",
+      "desc": "\n>AtJSON is a collection of repositories that together make up a fully-realized content format.\n\n\nhttps://github.com/CondeNast-Copilot/atjson",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8da4e588f356fd3554de",
+      "idMembersVoted": [],
+      "idShort": 62,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Annotation model `atjson`",
+      "pos": 1507327,
+      "shortLink": "dnhmQevM",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5050459b6fe0b7f60d589e76"
+      ],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/dnhmQevM",
+      "subscribed": false,
+      "url": "https://trello.com/c/dnhmQevM/62-annotation-model-atjson"
+    },
+    {
+      "id": "58baf83f93f65ad6b1d8c45a",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:44.637Z",
+      "desc": "This is similar/same to popcorn js sequence \n\nexample usage is hyperaud.io pad preview component.\n\nhttps://github.com/rwaldron/popcorn.sequence\n\nGiven a JSON EDL of clip selections from multiple clips, it should create a video element (or a canvas that mimics it?) that plays those clips selections, with normal video controllers, and timeline to seek across preview etc...",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c3647c18d4b24a8317c",
+      "idMembersVoted": [],
+      "idShort": 20,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec021",
+        "5ac7951a906a353b53391aee",
+        "5ac7981437752b2a8888184e",
+        "5ad5cc9ae16aa755b8463f13"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Front end component: video preview of JSON Edl",
+      "pos": 32639.501953125,
+      "shortLink": "3FmrMbQm",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 1,
+        "checkItemsChecked": 0,
+        "comments": 4,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "5ac796ee23a2246e8d92c4c2"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec021",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Front end components",
+          "color": "orange"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "5ac7981437752b2a8888184e",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "BBC Component",
+          "color": "purple"
+        },
+        {
+          "id": "5ad5cc9ae16aa755b8463f13",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract From BBC Dialogger",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/3FmrMbQm",
+      "subscribed": false,
+      "url": "https://trello.com/c/3FmrMbQm/20-front-end-component-video-preview-of-json-edl"
+    },
+    {
+      "id": "58beddf20c13fd87dc0e8d18",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:51:59.908Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n>LIUM_SpkDiarization is a software dedicated to speaker diarization (ie speaker segmentation and clustering). It is written in Java, and includes the most recent developments in the domain.\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\nhttp://lium3.univ-lemans.fr/diarization/doku.php \n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\nJava\n\n### Contributors list \n*People working on this project*\n",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c477d97fc3ccaa75ff4",
+      "idMembersVoted": [],
+      "idShort": 36,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "595e4e4e1314a3399982757b",
+        "5ac7981437752b2a8888184e"
+      ],
+      "manualCoverAttachment": false,
+      "name": "LIUM Speaker Diarization BBC - [Open Source]",
+      "pos": 1015807,
+      "shortLink": "jFRiJJRV",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 9,
+        "checkItemsChecked": 2,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58bf4441872ae11aecb0b7d6"
+      ],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "595e4e4e1314a3399982757b",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Modules/Library/components",
+          "color": "blue"
+        },
+        {
+          "id": "5ac7981437752b2a8888184e",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "BBC Component",
+          "color": "purple"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/jFRiJJRV",
+      "subscribed": false,
+      "url": "https://trello.com/c/jFRiJJRV/36-lium-speaker-diarization-bbc-open-source"
+    },
+    {
+      "id": "58baf70a56a64116238bc2fd",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:00:33.318Z",
+      "desc": "These algo they generally tend to work by comparing / ranking sentences, so need punctuation. \nSTT and live captioning generally does not return punctuation. ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c477d97fc3ccaa75ff4",
+      "idMembersVoted": [],
+      "idShort": 18,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b6c8b82b6457276cbf155e9"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: open source summarization module [Open Source]",
+      "pos": 1294335,
+      "shortLink": "c1KlGshJ",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b6c8b82b6457276cbf155e9",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Nice to have",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/c1KlGshJ",
+      "subscribed": false,
+      "url": "https://trello.com/c/c1KlGshJ/18-module-open-source-summarization-module-open-source"
+    },
+    {
+      "id": "58baf73fafc9fd8d2fb0a2c7",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:32.373Z",
+      "desc": "A module to use with raw captions eg from opened captions (that don't have capitalisation or punctuation) or STT outputs (which generally have capitalisation but no punctuation).\n\nand return text with best guess punctuation \nand capitalisation of entities and after full strops. \n\nthis could be two separate modules that can be combined. \n\nmight need a open source entities recognition for auto-capitalisation (if there is one or to connect with payed API).",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c477d97fc3ccaa75ff4",
+      "idMembersVoted": [],
+      "idShort": 19,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: punctuation and capitalisation. [Open Source]",
+      "pos": 1572863,
+      "shortLink": "3W6qrxvs",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/3W6qrxvs",
+      "subscribed": false,
+      "url": "https://trello.com/c/3W6qrxvs/19-module-punctuation-and-capitalisation-open-source"
+    },
+    {
+      "id": "5b6333c84175153335ccb404",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-02T16:41:11.049Z",
+      "desc": "https://github.com/vsetka/deepl-translator\n\n\nhttps://www.deepl.com/translator\n\nhttps://www.deepl.com/pro.html#api\n\nhttps://techcrunch.com/2017/08/29/deepl-schools-other-online-translators-with-clever-machine-learning/",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6333dab49c2237520e3730",
+      "idMembersVoted": [],
+      "idShort": 65,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac79c0cb5b34f1eb544a6c2"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Deep L - Translation SDK node",
+      "pos": 1572863,
+      "shortLink": "OC40xdWl",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac79c0cb5b34f1eb544a6c2",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "proprietary",
+          "color": "black"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/OC40xdWl",
+      "subscribed": false,
+      "url": "https://trello.com/c/OC40xdWl/65-deep-l-translation-sdk-node"
+    },
+    {
+      "id": "58baee2bbd26e48e03603ad4",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:00:12.131Z",
+      "desc": "round trip back from https://trello.com/c/Eq6gAOYe",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b6c8b82b6457276cbf155e9"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Parse EDL (plain text) to JSON [Open Source]",
+      "pos": 14335.78125,
+      "shortLink": "H8sNMVHW",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b6c8b82b6457276cbf155e9",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Nice to have",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/H8sNMVHW",
+      "subscribed": false,
+      "url": "https://trello.com/c/H8sNMVHW/5-parse-edl-plain-text-to-json-open-source"
+    },
+    {
+      "id": "58bee65b2d2f2dcbf681febd",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T19:00:41.433Z",
+      "desc": "Similar to the post to twitter module, it be good to have a post to facebook equivalent.\n\nEg [Ruby timecode module](guerilla-di.org/timecode) converted to node?",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 22,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b6c8b82b6457276cbf155e9"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Post to facebook [Open Source]",
+      "pos": 21503.671875,
+      "shortLink": "arl6gARO",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b6c8b82b6457276cbf155e9",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Nice to have",
+          "color": "lime"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/arl6gARO",
+      "subscribed": false,
+      "url": "https://trello.com/c/arl6gARO/22-module-post-to-facebook-open-source"
+    },
+    {
+      "id": "58baee1a9a09f760e360f334",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:49:47.085Z",
+      "desc": "autoEdit module. \n\n\nhttps://pietropassarelli.gitbooks.io/autoedit-2-documentation/content/edl-format.html\n\nhttps://github.com/OpenNewsLabs/autoEdit_2/tree/master/lib/edl_composer\n\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7951a906a353b53391aee",
+        "5ad5cc9ae16aa755b8463f13"
+      ],
+      "manualCoverAttachment": false,
+      "name": "EDL composer from JSON EDL [Open Source]",
+      "pos": 28671.5625,
+      "shortLink": "Eq6gAOYe",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 5,
+        "checkItemsChecked": 2,
+        "comments": 6,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baee43887f0edeb26cc6fd"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        },
+        {
+          "id": "5ad5cc9ae16aa755b8463f13",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract From BBC Dialogger",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/Eq6gAOYe",
+      "subscribed": false,
+      "url": "https://trello.com/c/Eq6gAOYe/4-edl-composer-from-json-edl-open-source"
+    },
+    {
+      "id": "58baf2cc383c2a991fa705cd",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:49:54.649Z",
+      "desc": "Module from quickQuote Node\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 9,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "58baed8aa5572569502ec023"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Post to Twitter Video [Open Source]",
+      "pos": 30719.53125,
+      "shortLink": "HBOdqlCz",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 2,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "58baed8aa5572569502ec023",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: quickQuoteNode",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/HBOdqlCz",
+      "subscribed": false,
+      "url": "https://trello.com/c/HBOdqlCz/9-module-post-to-twitter-video-open-source"
+    },
+    {
+      "id": "58bede0a0dfd16a75738f029",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:51:51.153Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n> Packaging of ffmpeg split/concat used for Al Jazeera's [PalestineRemix](https://trello.com/c/Hb6rdngh/44-palestinian-remix) project.\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\nhttps://github.com/Laurian/ffmpeg-remix\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\nhttps://www.npmjs.com/package/ffmpeg-remix \n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n### Contributors list \n*People working on this project*\n\nLaurian \n",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 35,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5b6a45f760779d4898ed0abb"
+      ],
+      "manualCoverAttachment": false,
+      "name": "edit video EDL (JSON) - `ffmpeg-remix` (super fast video editing of mp4 videos) // Laurian [Open Source]",
+      "pos": 991231,
+      "shortLink": "h60eN5q4",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 9,
+        "checkItemsChecked": 3,
+        "comments": 3,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58bf460c7022b6a23dc9a814"
+      ],
+      "idMembers": [
+        "4e6fe3e75f5d733f45001a2d"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5b6a45f760779d4898ed0abb",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extracted from Palestinian Remix",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/h60eN5q4",
+      "subscribed": false,
+      "url": "https://trello.com/c/h60eN5q4/35-edit-video-edl-json-ffmpeg-remix-super-fast-video-editing-of-mp4-videos-laurian-open-source"
+    },
+    {
+      "id": "58baeeb9b3741924a96da86e",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:39.717Z",
+      "desc": "This could be separate module or use strategy pattern/template pattern to add this export to https://trello.com/c/Eq6gAOYe/4-edl-composer-from-json-edl.\n\nUse case for this, is that if you have two or more track of video EDL has limitations of 1 video track max, and you therefore hit the sealing.\n\n\nsee example of making FCP7 XML in this other module\n\nhttps://www.npmjs.com/package/srt2xmeml\nhttps://github.com/woutervroege/node-srt2xmeml",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "EDL Json to XML FCP7 (compatible with premiere) [Open Source]",
+      "pos": 1019903,
+      "shortLink": "3T7xosMI",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 1,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58baef491bca930e5ba303c5"
+      ],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/3T7xosMI",
+      "subscribed": false,
+      "url": "https://trello.com/c/3T7xosMI/6-edl-json-to-xml-fcp7-compatible-with-premiere-open-source"
+    },
+    {
+      "id": "58bedb85912a4e796fd20a84",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:52:04.152Z",
+      "desc": "### Brief description \n*A paragraph describing in a nutshell what the project does. Context and relevance.*\n\n>Popcorn.js is Mozilla's HTML5 video and media library for the open web. It allows web developers, filmmakers, artists, designers and others to easily create timeline based web productions. Popcorn.js helps simplify media API and implementation differences between browsers and includes a powerful event system and a rich plugin architecture and plugins.\n\n>Mozilla no longer maintains this project. However, if you think you can take it in a new, modern direction, get in touch with us and we can discuss transferring ownership of the project to you.\n\n### Stage of production: \n*eg, prototype, working app, rolled out with users etc..*\n\n### Any blockers? \n*What are the things that are currently most challenging for your project?*\n\n### Components \n*Any components you'd like to abstract/share/open source?*\n\n### Github repo if available\n*Github repo for the project if open source*\n\nhttps://github.com/mozilla/popcorn-js\n\ndocumentation \nhttps://github.com/mozilla/popcorn-docs\n\n### Demo Video \n*Link to site, demo (and/or video)*\n\n### Website \n*eg github project page or README where can find out more*\n\n### List of Stack used \n*Eg programming languages, frameworks etc..*\n\n### Contributors list \n*People working on this project*\n",
+      "descData": null,
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c5baddffe7bba03bc52",
+      "idMembersVoted": [],
+      "idShort": 38,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "595e4e4e1314a3399982757b"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Popcorn Js // Mozilla/Internet Archive [Open Source]",
+      "pos": 1048575,
+      "shortLink": "c1X53K7p",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5938ddc80ff7394da779269f"
+      ],
+      "labels": [
+        {
+          "id": "595e4e4e1314a3399982757b",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Modules/Library/components",
+          "color": "blue"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/c1X53K7p",
+      "subscribed": false,
+      "url": "https://trello.com/c/c1X53K7p/38-popcorn-js-mozilla-internet-archive-open-source"
+    },
+    {
+      "id": "58baee014b89d868d90ce559",
+      "checkItemStates": null,
+      "closed": true,
+      "dateLastActivity": "2018-08-08T01:09:14.700Z",
+      "desc": "eg using ffmpeg-remix module.\nhttps://www.npmjs.com/package/ffmpeg-remix ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baed8aa5572569502ec019",
+      "idMembersVoted": [],
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020"
+      ],
+      "manualCoverAttachment": false,
+      "name": "edit video EDL (JSON) [Open Source]",
+      "pos": 26623.59375,
+      "shortLink": "mFmaxhbk",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "4e6fe3e75f5d733f45001a2d"
+      ],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/mFmaxhbk",
+      "subscribed": false,
+      "url": "https://trello.com/c/mFmaxhbk/3-edit-video-edl-json-open-source"
+    },
+    {
+      "id": "58baf69f0b3b64615c2c53d2",
+      "checkItemStates": null,
+      "closed": true,
+      "dateLastActivity": "2018-08-08T01:23:32.152Z",
+      "desc": "perhaps using Lium BBC\nhttp://lium3.univ-lemans.fr/diarization/doku.php ",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baed8aa5572569502ec019",
+      "idMembersVoted": [],
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec020",
+        "5ac7981437752b2a8888184e"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Module: Open source Speaker diarization [Open Source]",
+      "pos": 425983,
+      "shortLink": "62UU78Ff",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec020",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Node module",
+          "color": "green"
+        },
+        {
+          "id": "5ac7981437752b2a8888184e",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "BBC Component",
+          "color": "purple"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/62UU78Ff",
+      "subscribed": false,
+      "url": "https://trello.com/c/62UU78Ff/17-module-open-source-speaker-diarization-open-source"
+    },
+    {
+      "id": "58baf4e60df98e9a278d86e2",
+      "checkItemStates": null,
+      "closed": true,
+      "dateLastActivity": "2017-07-09T03:18:34.619Z",
+      "desc": "https://github.com/trint-it/trint-bbc",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "58baed8aa5572569502ec019",
+      "idMembersVoted": [],
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "58baed8aa5572569502ec021"
+      ],
+      "manualCoverAttachment": false,
+      "name": "Front end component: Draft.Js Text editor to edit timecoded transcriptions [Open Source]",
+      "pos": 720895,
+      "shortLink": "9EVqzfi6",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 1,
+        "checkItemsChecked": 0,
+        "comments": 1,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [
+        "58bc7fd17351d294760cb613"
+      ],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "58baed8aa5572569502ec021",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Front end components",
+          "color": "orange"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/9EVqzfi6",
+      "subscribed": false,
+      "url": "https://trello.com/c/9EVqzfi6/16-front-end-component-draftjs-text-editor-to-edit-timecoded-transcriptions-open-source"
+    },
+    {
+      "id": "5ac7a0ded910c3a6c7735f25",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:49:40.783Z",
+      "desc": "Altho autoEdit2 has been refactored into electron, initially it was built in NWJS and this was a boilerplate abstracted from it:\n\nhttps://github.com/pietrop/nwjs_boilerplate\n",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c3fea3f3b19280f9098",
+      "idMembersVoted": [],
+      "idShort": 57,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac7951a906a353b53391aee"
+      ],
+      "manualCoverAttachment": false,
+      "name": "NWJS boilerplate",
+      "pos": 131071,
+      "shortLink": "ZWpPKe1n",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "51d6dde276f2396b3f0064de"
+      ],
+      "labels": [
+        {
+          "id": "5ac7951a906a353b53391aee",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Extract from: autoEdit 2",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/ZWpPKe1n",
+      "subscribed": false,
+      "url": "https://trello.com/c/ZWpPKe1n/57-nwjs-boilerplate"
+    },
+    {
+      "id": "5ac7a58168cb05fc42438d6d",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:53:44.358Z",
+      "desc": " (close captioning feature)\n\nhttps://github.com/bavc/qctools\n\n\n>QCTools (Quality Control Tools for Video Preservation) is a free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering. QCTools is funded by the National Endowment for the Humanities and the Knight Foundation, and is developed by the Bay Area Video Coa… http://www.bavc.org/qctools",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c3fea3f3b19280f9098",
+      "idMembersVoted": [],
+      "idShort": 61,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4"
+      ],
+      "manualCoverAttachment": false,
+      "name": "QCTool",
+      "pos": 1441791,
+      "shortLink": "5yT4W4y1",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [
+        "5425a504668d3f210c37faed",
+        "593556f01c5befb8d690f7a9"
+      ],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/5yT4W4y1",
+      "subscribed": false,
+      "url": "https://trello.com/c/5yT4W4y1/61-qctool"
+    },
+    {
+      "id": "5ac7a3dd504990f43dbf9b49",
+      "checkItemStates": null,
+      "closed": false,
+      "dateLastActivity": "2018-08-09T18:53:48.928Z",
+      "desc": "https://github.com/amiaopensource/vrecord\n\n>Vrecord is open-source software for capturing a video signal and turning it into a digital file. Its purpose is to make videotape digitization or transfer easier. Vrecord can capture analog and digital signals through a variety of inputs and can create digital video files in a variety of formats and codecs. Vrecord has been designed with needs of audiovisual archivists in mind.",
+      "descData": {
+        "emoji": {}
+      },
+      "idBoard": "58baed8aa5572569502ec017",
+      "idList": "5b6c8c3fea3f3b19280f9098",
+      "idMembersVoted": [],
+      "idShort": 60,
+      "idAttachmentCover": null,
+      "idLabels": [
+        "5ac79db223ba04479bd18ab4"
+      ],
+      "manualCoverAttachment": false,
+      "name": "VRecord",
+      "pos": 1507327,
+      "shortLink": "PoMqvVIi",
+      "badges": {
+        "votes": 0,
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5ac79db223ba04479bd18ab4",
+          "idBoard": "58baed8aa5572569502ec017",
+          "name": "Open Source",
+          "color": "sky"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/PoMqvVIi",
+      "subscribed": false,
+      "url": "https://trello.com/c/PoMqvVIi/60-vrecord"
+    }
+  ]
+}

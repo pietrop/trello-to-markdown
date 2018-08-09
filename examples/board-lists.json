@@ -1,0 +1,106 @@
+[
+  {
+    "id": "5a900a25215d3d210630a94b",
+    "name": "Guidelines for this board + Things to define",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 40959.375,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8b6765b0e4597826e60a",
+    "name": "Media processing",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 53247.1875,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c7ff809456525eaa2a0",
+    "name": "Transcriptions - utils",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 69631,
+    "subscribed": null
+  },
+  {
+    "id": "58baf3f3971b32ae430a8b50",
+    "name": "Transcription STT Sdk",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 73727,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8bf35631805d3aa2629c",
+    "name": "Transcription UI",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 79871,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c1ec99b5177c5e5aee1",
+    "name": "Alignement",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 80895,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c29dfc655266760e67f",
+    "name": "Captions",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81407,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8da4e588f356fd3554de",
+    "name": "Annotations",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81535,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c3647c18d4b24a8317c",
+    "name": "Paper-editing & remixing UI",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81663,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c477d97fc3ccaa75ff4",
+    "name": "Cognitive insights",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81791,
+    "subscribed": null
+  },
+  {
+    "id": "5b6333dab49c2237520e3730",
+    "name": "Translation SDK",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81823,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c5baddffe7bba03bc52",
+    "name": "Export & remix & video editing",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 81855,
+    "subscribed": null
+  },
+  {
+    "id": "5b6c8c3fea3f3b19280f9098",
+    "name": "unsorted",
+    "closed": false,
+    "idBoard": "58baed8aa5572569502ec017",
+    "pos": 212991,
+    "subscribed": null
+  }
+]
