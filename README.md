@@ -29,3 +29,14 @@ Used to convert textAV components board into gitbook.
 
 ### Contributors list 
 *People working on this project*
+
+
+---
+
+### TODO
+- [X] add module.exports
+- [X] move card id as param
+- [ ] figure out how to return a promise
+ <!--eg see dropbox paper to markdown Alvin PR  -->
+- [ ] push to npm 
+- [ ] new repo to get from tello textAV and create gitbook

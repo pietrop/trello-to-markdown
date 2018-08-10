@@ -2,37 +2,36 @@ const fs = require('fs-extra');
 const fetch = require('node-fetch');
 const sanitize = require("sanitize-filename");
 
-const boardId = '58mo9Tpa';
-
-const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=all`;
-const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
-const trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`
-
+function trelloToMarkdownFolders(options){
+    const boardId = options.boardId;
+    const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=all`;
+    const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
+    const trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`
 
 fetch(trelloBoardLists)
     .then(res => res.text())
     .then(res => JSON.parse(res))
     .then( (body) => {
-       return parseTrelloResponseForLists(body)
+       return parseTrelloResponseForLists(body, options.destFolder)
     })
     .then((lists)=>{
         fetch(trelloBoardCardsEndPoint)
             .then(res => res.text())
             .then(res => JSON.parse(res))
-            .then(body => parseTrelloResponseFoCards(body, lists));
- 
+            .then(body => parseTrelloResponseFoCards(body, lists,  options.destFolder));
     })
+}
 
 /**
  * Creates folder structure in docs folder using the names of the lists in the trello board
  * Deletes docs file and re-writes before adding the folder, to clear it out
  * @param {*} lists - array list of json list objects, representing trello lists see ./examples/board-lists.json 
  */
-function parseTrelloResponseForLists(lists){
-    fs.removeSync('./docs');
-    createDirIfDoesntExist('./docs');
+function parseTrelloResponseForLists(lists, destFolder){
+    fs.removeSync(destFolder);
+    createDirIfDoesntExist(destFolder);
     lists.forEach((listItem,index)=>{
-        createDirIfDoesntExist(`${__dirname}/docs/${sanitize(listItem.name)}`)
+        createDirIfDoesntExist(`${destFolder}/${sanitize(listItem.name)}`)
     })
     return lists;
 }
@@ -46,7 +45,7 @@ function parseTrelloResponseForLists(lists){
  * @param {array} board.cards - array of json objects representing a trello cards  see example/board-cards.json 
  * @param {array} lists  - array list of json list objects, representing trello lists see ./examples/board-lists.json 
  */
-function parseTrelloResponseFoCards(board, lists){
+function parseTrelloResponseFoCards(board, lists, destFolder){
     board.cards.forEach((card, index)=>{
         var listName = returnListNameFromCard(card, lists);
         if(listName !== undefined){
@@ -55,7 +54,7 @@ function parseTrelloResponseFoCards(board, lists){
             content+= `[Link to trello card: ${card.name}](${card.shortUrl})\n\n`;
             content+=`##### Labels\n\n`
             content+=`${flattenLabels(card.labels)}`
-            fs.writeFileSync(`${__dirname}/docs/${listName}/${sanitize(card.name)}.md`, content)
+            fs.writeFileSync(`${destFolder}/${listName}/${sanitize(card.name)}.md`, content)
         }
     });
 }   
@@ -88,3 +87,6 @@ function createDirIfDoesntExist(dir){
         fs.mkdirSync(dir);
     }
 }
+
+
+module.exports = trelloToMarkdownFolders;
