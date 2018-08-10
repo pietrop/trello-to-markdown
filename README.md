@@ -3,32 +3,67 @@
 ### Brief description 
 *A paragraph describing in a nutshell what the project does. Context and relevance.*
 
-A node module to export a trello board, and convert it into a gitbook. 
-Used to convert textAV components board into gitbook.
+A node module to export a trello board, and convert it into a set of folders, and markdown files, corresponding to lists and cards on the board.
 
-### Stage of production: 
-*eg, prototype, working app, rolled out with users etc..*
+Used to convert [textAV](textAV.tech) components board into gitbook.
 
-### Any blockers? 
-*What are the things that are currently most challenging for your project?*
+## Setup
+_stack - optional_
+_How to build and run the code/app_
+ 
+ `npm install `trello-to-markdown`
 
-### Components 
-*Any components you'd like to abstract/share/open source?*
 
-### Github repo if available
-*Github repo for the project if open source*
+## Usage
 
-### Demo Video 
-*Link to site, demo (and/or video)*
 
-### Website 
-*eg github project page or README where can find out more*
+```js
+const trelloToMarkdownFolders = require('trello-to-markdown');
 
-### List of Stack used 
-*Eg programming languages, frameworks etc..*
+const boardIdTextAVComponents = '58mo9Tpa';
+trelloToMarkdownFolders({boardId: boardIdTextAVComponents, destFolder: './docs' });
+```
 
-### Contributors list 
-*People working on this project*
+see [`example-usage.js`](./example-usage.js)
+
+<!-- To run example do `node example-usage.js` -->
+ 
+
+## System Architecture
+_High level overview of system architecture_
+
+- calls trello API with board id
+- get the lists in the boards
+- uses that to create the folder structure
+- second call to trello API gets the cards 
+- iterate through the cards 
+    - and write description content of card as markdown file 
+    -  in the folder corresponding to that card 
+- done
+ 
+
+## Development env
+ _How to run the development environment_
+_Coding style convention ref optional, eg which linter to use_
+_Linting, github pre-push hook - optional_
+
+- node
+- npm 
+ 
+
+## Build
+_How to run build_
+
+No build steps
+ 
+
+## Tests
+_How to carry out tests_
+No automated tests for now, see [`example-usage.js`](./example-usage.js) to try it out locally
+
+## Deployment
+
+_How to deploy the code/app into test/staging/production_
 
 
 ---
