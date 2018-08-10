@@ -1,18 +1,12 @@
-`trello-to-markdown`
-
-### Brief description 
-*A paragraph describing in a nutshell what the project does. Context and relevance.*
+# `trello-to-markdown`
 
 A node module to export a trello board, and convert it into a set of folders, and markdown files, corresponding to lists and cards on the board.
 
 Used to convert [textAV](textAV.tech) components board into gitbook.
 
 ## Setup
-_stack - optional_
-_How to build and run the code/app_
- 
- `npm install `trello-to-markdown`
 
+`npm install trello-to-markdown`
 
 ## Usage
 
@@ -30,7 +24,6 @@ see [`example-usage.js`](./example-usage.js)
  
 
 ## System Architecture
-_High level overview of system architecture_
 
 - calls trello API with board id
 - get the lists in the boards
@@ -43,9 +36,6 @@ _High level overview of system architecture_
  
 
 ## Development env
- _How to run the development environment_
-_Coding style convention ref optional, eg which linter to use_
-_Linting, github pre-push hook - optional_
 
 - node
 - npm 
@@ -59,6 +49,7 @@ No build steps
 
 ## Tests
 _How to carry out tests_
+
 No automated tests for now, see [`example-usage.js`](./example-usage.js) to try it out locally
 
 ## Deployment

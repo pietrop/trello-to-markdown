@@ -46,6 +46,8 @@ function parseTrelloResponseForLists(lists, destFolder){
  * @param {array} lists  - array list of json list objects, representing trello lists see ./examples/board-lists.json 
  */
 function parseTrelloResponseFoCards(board, lists, destFolder){
+    // fs.writeFileSync(`${destFolder}/${listName}/SUMMARY.md`, '# Summary\n\n')
+
     board.cards.forEach((card, index)=>{
         var listName = returnListNameFromCard(card, lists);
         if(listName !== undefined){
