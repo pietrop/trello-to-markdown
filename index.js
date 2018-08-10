@@ -34,7 +34,7 @@ function parseTrelloResponseForLists(lists, destFolder){
     fs.removeSync(destFolder);
     createDirIfDoesntExist(destFolder);
     lists.forEach((listItem,index)=>{
-        createDirIfDoesntExist(`${destFolder}/${sanitize(listItem.name)}`)
+        createDirIfDoesntExist(`${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}`)
     })
     return lists;
 }
@@ -56,12 +56,13 @@ function parseTrelloResponseFoCards(board, lists, destFolder){
         var listName = returnListNameFromCard(card, lists);
         if(listName !== undefined){
             // console.log(listName);
-            var content = `${card.desc}\n\n---\n\n`
+            var content = `# ${card.name}\n\n`
+            content += `${card.desc}\n\n---\n\n`
             content+= `[Link to trello card: ${card.name}](${card.shortUrl})\n\n`;
             content+=`##### Labels\n\n`
             content+=`${flattenLabels(card.labels)}`
             // summaryContent =+'card.name\n\n' //`*[${card.name}](${destFolder}/${listName}/${sanitize(card.name)}.md)\n`
-            fs.writeFileSync(`${destFolder}/${sanitize(listName)}/${sanitize(card.name)}.md`, content)
+            fs.writeFileSync(`${destFolder}/${sanitize(listName).replace(/ /g,'-')}/${sanitize(card.name).replace(/ /g,'-')}.md`, content)
         }
     });
     // console.log('summaryContent',summaryContent);
@@ -84,7 +85,7 @@ function createSummaryPage(board, lists, destFolder){
         summaryContent += `\n\n## ${listItem.name}\n\n`
 
         cardsForThisList.forEach((cardInList)=>{
-            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name)}/${sanitize(cardInList.name)}.md)\n`;
+            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /,'-')}.md)\n`;
         })
     })
     fs.writeFileSync(`${destFolder}/SUMMARY.md`, summaryContent)
