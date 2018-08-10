@@ -65,13 +65,13 @@ No automated tests for now, see [`example-usage.js`](./example-usage.js) to try 
 
 _How to deploy the code/app into test/staging/production_
 
-
+<!-- 
 ---
 
 ### TODO
 - [X] add module.exports
 - [X] move card id as param
 - [ ] figure out how to return a promise
- <!--eg see dropbox paper to markdown Alvin PR  -->
+ eg see dropbox paper to markdown Alvin PR 
 - [ ] push to npm 
-- [ ] new repo to get from tello textAV and create gitbook
+- [ ] new repo to get from tello textAV and create gitbook -->
