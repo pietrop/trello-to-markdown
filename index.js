@@ -5,21 +5,24 @@ const sanitize = require("sanitize-filename");
 function trelloToMarkdownFolders(options){
     const boardId = options.boardId;
     const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=all`;
-    const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
+    // const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
     const trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`
 
 fetch(trelloBoardLists)
     .then(res => res.text())
     .then(res => JSON.parse(res))
-    .then( (body) => {
-       return parseTrelloResponseForLists(body, options.destFolder)
+    .then( (bodyLists) => {
+       return parseTrelloResponseForLists(bodyLists, options.destFolder)
     })
     .then((lists)=>{
         fetch(trelloBoardCardsEndPoint)
             .then(res => res.text())
             .then(res => JSON.parse(res))
-            .then(body => parseTrelloResponseFoCards(body, lists,  options.destFolder));
-    })
+            .then( (bodyCards) => {
+                parseTrelloResponseFoCards(bodyCards, lists,  options.destFolder)
+                createSummaryPage(bodyCards, lists,  options.destFolderForSummaryPage)
+            }).catch(error => console.log(error))
+    }).catch(error => console.log(error))
 }
 
 /**
@@ -47,19 +50,45 @@ function parseTrelloResponseForLists(lists, destFolder){
  */
 function parseTrelloResponseFoCards(board, lists, destFolder){
     // fs.writeFileSync(`${destFolder}/${listName}/SUMMARY.md`, '# Summary\n\n')
+    // var summaryContent = '# Summary\n\n';
 
     board.cards.forEach((card, index)=>{
         var listName = returnListNameFromCard(card, lists);
         if(listName !== undefined){
-            console.log(listName);
+            // console.log(listName);
             var content = `${card.desc}\n\n---\n\n`
             content+= `[Link to trello card: ${card.name}](${card.shortUrl})\n\n`;
             content+=`##### Labels\n\n`
             content+=`${flattenLabels(card.labels)}`
-            fs.writeFileSync(`${destFolder}/${listName}/${sanitize(card.name)}.md`, content)
+            // summaryContent =+'card.name\n\n' //`*[${card.name}](${destFolder}/${listName}/${sanitize(card.name)}.md)\n`
+            fs.writeFileSync(`${destFolder}/${sanitize(listName)}/${sanitize(card.name)}.md`, content)
         }
     });
+    // console.log('summaryContent',summaryContent);
+    //  fs.writeFileSync(`${destFolder}/SUMMARY.md`, summaryContent)
 }   
+
+/**
+ *  Used for gitbook, to generate side menu 
+ * @param {*} board 
+ * @param {*} lists 
+ * @param {*} destFolder 
+ */
+function createSummaryPage(board, lists, destFolder){
+    var summaryContent = '# Summary';
+    lists.forEach((listItem)=>{
+        var cardsForThisList = board.cards.filter((card)=>{
+           return card.idList === listItem.id;
+        })
+
+        summaryContent += `\n\n## ${listItem.name}\n\n`
+
+        cardsForThisList.forEach((cardInList)=>{
+            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name)}/${sanitize(cardInList.name)}.md)\n`;
+        })
+    })
+    fs.writeFileSync(`${destFolder}/SUMMARY.md`, summaryContent)
+}
 
 /**
  * helper functions 

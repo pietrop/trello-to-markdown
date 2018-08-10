@@ -15,7 +15,7 @@ Used to convert [textAV](textAV.tech) components board into gitbook.
 const trelloToMarkdownFolders = require('trello-to-markdown');
 
 const boardIdTextAVComponents = '58mo9Tpa';
-trelloToMarkdownFolders({boardId: boardIdTextAVComponents, destFolder: './docs' });
+trelloToMarkdownFolders({boardId: boardIdTextAVComponents, destFolder: './docs', destFolderForSummaryPage: __dirname });
 ```
 
 see [`example-usage.js`](./example-usage.js)
@@ -32,6 +32,7 @@ see [`example-usage.js`](./example-usage.js)
 - iterate through the cards 
     - and write description content of card as markdown file 
     -  in the folder corresponding to that card 
+- Also creates as summary page 
 - done
  
 
