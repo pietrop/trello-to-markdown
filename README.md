@@ -15,8 +15,10 @@ Used to convert [textAV](textAV.tech) components board into gitbook.
 const trelloToMarkdownFolders = require('trello-to-markdown');
 
 const boardIdTextAVComponents = '58mo9Tpa';
-trelloToMarkdownFolders({boardId: boardIdTextAVComponents, destFolder: './docs', destFolderForSummaryPage: __dirname });
+trelloToMarkdownFolders({boardId: boardIdTextAVComponents, destFolderName: 'docs' );
 ```
+
+Where `destFolderName` is just the name of the folder, not the path.
 
 see [`example-usage.js`](./example-usage.js)
 

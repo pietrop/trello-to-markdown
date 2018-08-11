@@ -1,6 +1,6 @@
 {
   "name": "trello-to-markdown",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Creates a folder structure reflecting lists in a trello board and adds the content description of the cards to it as markdown files",
   "main": "index.js",
   "scripts": {

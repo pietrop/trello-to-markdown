@@ -12,15 +12,15 @@ fetch(trelloBoardLists)
     .then(res => res.text())
     .then(res => JSON.parse(res))
     .then( (bodyLists) => {
-       return parseTrelloResponseForLists(bodyLists, options.destFolder)
+       return parseTrelloResponseForLists(bodyLists, options.destFolderName)
     })
     .then((lists)=>{
         fetch(trelloBoardCardsEndPoint)
             .then(res => res.text())
             .then(res => JSON.parse(res))
             .then( (bodyCards) => {
-                parseTrelloResponseFoCards(bodyCards, lists,  options.destFolder)
-                createSummaryPage(bodyCards, lists,  options.destFolderForSummaryPage)
+                parseTrelloResponseFoCards(bodyCards, lists,  options.destFolderName)
+                createSummaryPage(bodyCards, lists, options.destFolderName)
             }).catch(error => console.log(error))
     }).catch(error => console.log(error))
 }
@@ -85,10 +85,10 @@ function createSummaryPage(board, lists, destFolder){
         summaryContent += `\n\n## ${listItem.name}\n\n`
 
         cardsForThisList.forEach((cardInList)=>{
-            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /,'-')}.md)\n`;
+            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-')}.md)\n`;
         })
     })
-    fs.writeFileSync(`${destFolder}/SUMMARY.md`, summaryContent)
+    fs.writeFileSync(`${__dirname}/SUMMARY.md`, summaryContent)
 }
 
 /**
