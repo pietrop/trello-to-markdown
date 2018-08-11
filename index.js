@@ -88,7 +88,7 @@ function createSummaryPage(board, lists, destFolder){
             summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-')}.md)\n`;
         })
     })
-    fs.writeFileSync(`${__dirname}/SUMMARY.md`, summaryContent)
+    fs.writeFileSync(`${process.cwd()}/SUMMARY.md`, summaryContent)
 }
 
 /**
