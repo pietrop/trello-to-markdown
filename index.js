@@ -4,7 +4,8 @@ const sanitize = require("sanitize-filename");
 
 function trelloToMarkdownFolders(options){
     const boardId = options.boardId;
-    const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=all`;
+    // https://developers.trello.com/reference#section-nested-cards-as-query-params
+    const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=visible`;
     // const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
     const trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`
 
