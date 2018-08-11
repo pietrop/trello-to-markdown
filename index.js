@@ -62,7 +62,7 @@ function parseTrelloResponseFoCards(board, lists, destFolder){
             content+=`##### Labels\n\n`
             content+=`${flattenLabels(card.labels)}`
             // summaryContent =+'card.name\n\n' //`*[${card.name}](${destFolder}/${listName}/${sanitize(card.name)}.md)\n`
-            fs.writeFileSync(`${destFolder}/${sanitize(listName).replace(/ /g,'-')}/${sanitize(card.name).replace(/ /g,'-')}.md`, content)
+            fs.writeFileSync(`${destFolder}/${sanitize(listName).replace(/ /g,'-')}/${sanitize(card.name).replace(/ /g,'-').replace(/\(/g,'').replace(/\)/g,'')}.md`, content)
         }
     });
     // console.log('summaryContent',summaryContent);
@@ -85,7 +85,7 @@ function createSummaryPage(board, lists, destFolder){
         summaryContent += `\n\n## ${listItem.name}\n\n`
 
         cardsForThisList.forEach((cardInList)=>{
-            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-')}.md)\n`;
+            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-').replace(/\(/g,'').replace(/\)/g,'')}.md)\n`;
         })
     })
     fs.writeFileSync(`${process.cwd()}/SUMMARY.md`, summaryContent)
