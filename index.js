@@ -86,10 +86,12 @@ function createSummaryPage(board, lists, destFolder){
         summaryContent += `\n\n## ${listItem.name}\n\n`
 
         cardsForThisList.forEach((cardInList)=>{
-            summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-').replace(/\(/g,'').replace(/\)/g,'')}.md)\n`;
+            // summaryContent+= `* [${cardInList.name}](${destFolder}/${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-').replace(/\(/g,'').replace(/\)/g,'')}.md)\n`;
+            summaryContent+= `* [${cardInList.name}](${sanitize(listItem.name).replace(/ /g,'-')}/${sanitize(cardInList.name).replace(/ /g,'-').replace(/\(/g,'').replace(/\)/g,'')}.md)\n`;
         })
     })
-    fs.writeFileSync(`${process.cwd()}/SUMMARY.md`, summaryContent)
+    // fs.writeFileSync(`${process.cwd()}/SUMMARY.md`, summaryContent)
+    fs.writeFileSync(`${destFolder}/SUMMARY.md`, summaryContent)
 }
 
 /**
