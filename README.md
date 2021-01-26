@@ -62,8 +62,6 @@ to publish module to npm
 npm run publish:public
 ```
 
-## <!--
-
 ### TODO
 
 - [x] add module.exports
