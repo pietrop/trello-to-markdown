@@ -4,10 +4,19 @@ const sanitize = require("sanitize-filename");
 
 function trelloToMarkdownFolders(options){
     const boardId = options.boardId;
+    const privateBoard = options.privateBoard;
+    const trelloApiKey = options.trelloApiKey;
+    const trelloApiToken = options.trelloApiToken;
+
     // https://developers.trello.com/reference#section-nested-cards-as-query-params
-    const trelloBoardCardsEndPoint =`https://api.trello.com/1/boards/${boardId}/?cards=visible`;
+    let trelloBoardCardsEndPoint = `https://api.trello.com/1/boards/${boardId}/?cards=visible`;
     // const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
-    const trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`
+    let trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`;
+
+    if(privateBoard){
+        trelloBoardCardsEndPoint = trelloBoardCardsEndPoint + `&key=${trelloApiKey}&token=${trelloApiToken}`;
+        trelloBoardLists = trelloBoardLists + `?key=${trelloApiKey}&token=${trelloApiToken}`;
+    } 
 
 fetch(trelloBoardLists)
     .then(res => res.text())
