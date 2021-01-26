@@ -9,7 +9,7 @@ function trelloToMarkdownFolders(options){
     const trelloApiToken = options.trelloApiToken;
 
     // https://developers.trello.com/reference#section-nested-cards-as-query-params
-    var trelloBoardCardsEndPoint = `https://api.trello.com/1/boards/${boardId}/?cards=visible`;
+    let trelloBoardCardsEndPoint = `https://api.trello.com/1/boards/${boardId}/?cards=visible`;
     // const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
     let trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`;
 
