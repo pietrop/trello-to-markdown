@@ -11,7 +11,7 @@ function trelloToMarkdownFolders(options){
     // https://developers.trello.com/reference#section-nested-cards-as-query-params
     var trelloBoardCardsEndPoint = `https://api.trello.com/1/boards/${boardId}/?cards=visible`;
     // const trelloBoardLabels = `https://api.trello.com/1/boards/${boardId}/labels`
-    var trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`;
+    let trelloBoardLists = `https://api.trello.com/1/boards/${boardId}/lists`;
 
     if(privateBoard){
         trelloBoardCardsEndPoint = trelloBoardCardsEndPoint + `&key=${trelloApiKey}&token=${trelloApiToken}`;
