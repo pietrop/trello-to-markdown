@@ -69,5 +69,5 @@ npm run publish:public
 - [x] move card id as param
 - [ ] figure out how to return a promise
       eg see dropbox paper to markdown Alvin PR
-- [ ] push to npm
+- [x] push to npm
 - [ ] new repo to get from tello textAV and create gitbook -->
